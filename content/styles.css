@@ -7,5 +7,5 @@ header {
 }
 
 .header.top {
-
+    display: flex;
 }
