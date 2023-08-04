@@ -2,6 +2,7 @@ body {
     height: 100vh;
     font-size: 16px;
     font-family: "Rubik", "PT Sans", Calibri, Tahoma, sans-serif;
+    margin: 0;
 }
 
 header {
