@@ -37,6 +37,7 @@ ul.links {
 
 .header.bottom {
     display: flex;
+    justify-content: space-between;
 }
 
 .image {
