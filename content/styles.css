@@ -16,6 +16,7 @@ header {
     margin: 5px 150px 40px;
     justify-content: space-between;
     flex: auto;
+    align-items: center;
 }
 
 .logo {
