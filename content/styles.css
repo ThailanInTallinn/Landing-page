@@ -13,6 +13,7 @@ header {
 
 .header.top {
     display: flex;
+    margin: 5px 150px 40px;
 }
 
 .logo {
