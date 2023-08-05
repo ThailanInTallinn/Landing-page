@@ -15,6 +15,7 @@ header {
     display: flex;
     margin: 5px 150px 40px;
     justify-content: space-between;
+    flex: auto;
 }
 
 .logo {
