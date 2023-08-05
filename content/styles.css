@@ -10,6 +10,7 @@ header {
     color: #F9FAF8;
     display: flex;
     padding: 5px 150px 40px;
+    flex-direction: column;
 }
 
 .header.top {
