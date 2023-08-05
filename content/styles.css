@@ -26,4 +26,5 @@ ul.links {
     display: flex;
     gap: 16px;
     margin: 0;
+    list-style-type: none;
 }
