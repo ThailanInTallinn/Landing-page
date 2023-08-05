@@ -21,4 +21,5 @@ header {
 }
 
 ul.links {
+    display: flex;
 }
