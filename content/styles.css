@@ -49,6 +49,7 @@ img {
 .content{
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
 
 .main.text {
