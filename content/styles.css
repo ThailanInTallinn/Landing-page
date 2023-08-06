@@ -73,4 +73,5 @@ img {
     max-width: 8em;
     justify-content: center;
     padding: 8px 6px;
+    border-radius: 0.5em;
 }
