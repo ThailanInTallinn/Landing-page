@@ -47,12 +47,12 @@ img {
 }
 
 .content{
-
 }
 
 .main.text {
     font-size: 3em;
     font-weight: 900;
+    margin: 0;
 }
 
 .first.button {
