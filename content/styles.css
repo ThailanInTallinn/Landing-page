@@ -68,4 +68,6 @@ img {
     color: #F9FAF8;
     font-size: 1.125em;
     font-weight: 600;
+    display: flex;
+    flex: 0 1 21px;
 }
