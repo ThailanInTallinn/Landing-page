@@ -72,4 +72,5 @@ img {
     flex: 0 1 21px;
     max-width: 8em;
     justify-content: center;
+    padding: 8px 6px;
 }
