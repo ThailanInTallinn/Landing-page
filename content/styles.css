@@ -90,7 +90,7 @@ img {
 }
 
 .content.top {
-
+    display: flex;
 }
 
 .card {
