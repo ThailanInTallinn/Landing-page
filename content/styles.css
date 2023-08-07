@@ -91,6 +91,7 @@ img {
 
 .content.top {
     display: flex;
+    justify-content: center;
 }
 
 .card {
