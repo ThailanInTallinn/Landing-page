@@ -81,5 +81,6 @@ img {
     display: flex;
     font-size: 2.25em;
     font-weight: 900;
+    color: #1F2937;
     justify-content: center;
 }
