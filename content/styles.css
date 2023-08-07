@@ -80,4 +80,5 @@ img {
 .cards-top {
     display: flex;
     font-size: 2.25em;
+    font-weight: 900;
 }
