@@ -102,4 +102,5 @@ img {
 .card.image{
     border: 2px solid blue;
     width: 200px;
+    flex: initial;
 }
