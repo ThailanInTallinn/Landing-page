@@ -90,5 +90,5 @@ img {
 }
 
 .card.image{
-
+    border: 2px solid blue;
 }
