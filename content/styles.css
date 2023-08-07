@@ -48,7 +48,7 @@ img {
     height: 245px;
 }
 
-.content{
+.header-text{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
