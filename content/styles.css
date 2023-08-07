@@ -89,6 +89,10 @@ img {
     padding-bottom: 40px;
 }
 
+.content.top {
+
+}
+
 .card {
     display: flex;
 }
