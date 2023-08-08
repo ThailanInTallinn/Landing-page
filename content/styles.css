@@ -98,11 +98,12 @@ img {
 
 .card-container {
     display: flex;
+    max-width: 200px;
 }
 
 .card.image{
     border: 2px solid blue;
     width: 200px;
     height: 200px;
-    flex: initial;
+    flex: 0 0 auto;
 }
