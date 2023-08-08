@@ -100,6 +100,7 @@ img {
     display: flex;
     max-width: 200px;
     flex-direction: column;
+    gap: 20px;
 }
 
 .card.image{
