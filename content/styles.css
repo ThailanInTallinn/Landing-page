@@ -96,7 +96,7 @@ img {
     flex-wrap: wrap;
 }
 
-.card {
+.card-container {
     display: flex;
 }
 
