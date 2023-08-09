@@ -118,4 +118,5 @@ img {
 
 .content.mid {
     display: flex;
+    height: 300px;
 }
