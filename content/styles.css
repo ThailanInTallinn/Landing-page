@@ -1,5 +1,4 @@
 body {
-    height: 100vh;
     font-size: 16px;
     font-family: "Rubik", "PT Sans", Calibri, Tahoma, sans-serif;
     margin: 0;
@@ -104,7 +103,7 @@ img {
 }
 
 .card.image{
-    border: 4px solid blue;
+    border: 4px solid rgb(109, 109, 232);
     width: 200px;
     height: 200px;
     flex: 0 0 auto;
