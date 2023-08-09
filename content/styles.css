@@ -119,4 +119,5 @@ img {
 .content.mid {
     display: flex;
     height: 300px;
+    background-color: #E5E7EB;
 }
