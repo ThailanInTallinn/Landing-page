@@ -117,4 +117,5 @@ img {
 }
 
 .content.mid {
+    display: flex;
 }
