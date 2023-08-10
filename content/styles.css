@@ -137,5 +137,5 @@ i.quotes {
 }
 
 .quotes.signature {
-
+    display: flex;
 }
