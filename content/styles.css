@@ -139,4 +139,5 @@ i.quotes {
 .quotes.signature {
     display: flex;
     width: 60%;
+    justify-content: flex-end;
 }
