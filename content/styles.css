@@ -138,4 +138,5 @@ i.quotes {
 
 .quotes.signature {
     display: flex;
+    width: 60%;
 }
