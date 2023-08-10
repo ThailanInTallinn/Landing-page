@@ -120,11 +120,11 @@ img {
     display: flex;
     height: 400px;
     background-color: #E5E7EB;
-    justify-content: center;
-    align-items: center;
 }
 
 .quotes-container {
+    justify-content: center;
+    align-items: center;
     display: flex;
 }
 
