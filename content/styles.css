@@ -122,6 +122,10 @@ img {
     background-color: #E5E7EB;
 }
 
+.quotes-container {
+
+}
+
 i.quotes {
     display: flex;
     font-size: 2.25em;
