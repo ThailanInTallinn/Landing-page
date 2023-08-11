@@ -173,4 +173,5 @@ i.quotes {
 
 .second.button {
     flex: auto;
+    border: 2px solid #fff;
 }
