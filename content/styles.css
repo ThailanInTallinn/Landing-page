@@ -151,7 +151,7 @@ i.quotes {
 }
 
 .blue-container {
-
+    display: flex;
 }
 
 .words {
