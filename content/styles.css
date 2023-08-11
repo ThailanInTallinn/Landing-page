@@ -71,7 +71,7 @@ img {
     font-size: 1.125em;
     font-weight: 600;
     display: flex;
-    flex: 0 1 21px;
+    flex: 0 0 21px;
     max-width: 8em;
     justify-content: center;
     padding: 8px 6px;
