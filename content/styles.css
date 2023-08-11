@@ -155,5 +155,6 @@ i.quotes {
 }
 
 .words {
-
+    display: flex;
+    flex-direction: column;
 }
