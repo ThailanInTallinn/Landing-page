@@ -155,6 +155,7 @@ i.quotes {
 .blue-container {
     display: flex;
     align-items: center;
+    flex: 0 1 70%;
     background-color: #3882f6;
 }
 
