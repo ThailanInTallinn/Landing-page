@@ -152,6 +152,7 @@ i.quotes {
 
 .blue-container {
     display: flex;
+    align-items: center;
 }
 
 .words {
