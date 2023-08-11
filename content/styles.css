@@ -159,6 +159,7 @@ i.quotes {
     justify-content: space-around;
     background-color: #3882f6;
     height: 40%;
+    border-radius: 0.5em;
 }
 
 .words {
