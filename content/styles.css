@@ -165,6 +165,7 @@ i.quotes {
 .words {
     display: flex;
     flex-direction: column;
+    color: #F9FAF8;
 }
 
 .upper.words {
