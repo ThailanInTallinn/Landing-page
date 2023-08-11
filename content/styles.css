@@ -156,6 +156,7 @@ i.quotes {
     display: flex;
     align-items: center;
     flex: 0 1 70%;
+    justify-content: space-around;
     background-color: #3882f6;
 }
 
