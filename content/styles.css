@@ -183,4 +183,6 @@ footer {
     height: 130px;
     background-color: #1F2937;
     color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
 }
